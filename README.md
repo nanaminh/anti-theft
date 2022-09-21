@@ -1,6 +1,6 @@
 # Anti-theft system for a bike
 Anti-thift system for your beloved bike.
-Developed under a support of "Delft Open Hardware project".
+Developed under a support of "Delft Open Hardware academy 2022".
 
 ## Motivation
 - I'm a big fan of (race) biking. I'm always afraid of my bike got stolen when I park outside.
