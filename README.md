@@ -13,12 +13,11 @@ The anti-theft system has two functions:
 
 ## Hardware 
 - LilyGO TTGO T-Beam (v1.1 is used in this project)
-https://www.tinytronics.nl/shop/en/development-boards/microcontroller-boards/with-gps/lilygo-ttgo-t-beam-v1.0-lora-868mhz-neo-6m-gps-esp32
-![] (images/T-beamv1_1.jpg)
+![T-beam](images/T-beamv1_1.jpg)
 - MPU6050
-![] (images/mpu6050.jpg)
+![mpu6050](images/mpu6050.jpg)
 - Buzzer
-![](images/Buzzer.jpg)
+![buzzer](images/Buzzer.jpg)
 
 ## How to build
 ### Theft trial detection
