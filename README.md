@@ -14,8 +14,10 @@ The anti-theft system has two functions:
 ## Hardware 
 - LilyGO TTGO T-Beam (v1.1 is used in this project)
 ![T-beam](images/T-beamv1_1.jpg)
+
 - MPU6050
 ![mpu6050](images/mpu6050.jpg)
+
 - Buzzer
 ![buzzer](images/buzzer.jpg)
 
