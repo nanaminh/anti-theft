@@ -17,7 +17,7 @@ The anti-theft system has two functions:
 - MPU6050
 ![mpu6050](images/mpu6050.jpg)
 - Buzzer
-![buzzer](images/Buzzer.jpg)
+![buzzer](images/buzzer.jpg)
 
 ## How to build
 ### Theft trial detection
