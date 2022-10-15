@@ -33,4 +33,4 @@ CAD folder contains the file for 3D printing.
 - How to turn it off during ride
 
 ## License
-This product is created by @nanahashimoto under Creative Commons BY 4.0 license.
+This product is created by @nanaminh under Creative Commons BY 4.0 license.
